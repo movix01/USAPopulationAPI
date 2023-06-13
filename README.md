@@ -6,6 +6,6 @@ Przykłądowe miasta:
 -California
 -Texas
 
-** Projekt przygotowany przez: **
+* Projekt przygotowany przez: *
 - Adam Burzyński
 - Michał Piszczek
